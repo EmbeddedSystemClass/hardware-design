@@ -42,3 +42,4 @@ out/
 !.vscode/launch.json
 !.vscode/extensions.json
 *.code-workspace
+kicad_project/open_authenticator-backups/open_authenticator-2021-04-06_234307.zip
